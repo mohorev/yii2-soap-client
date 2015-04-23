@@ -3,6 +3,9 @@ SOAP Client Extension for Yii 2
 
 Note, PHP SOAP extension is required.
 
+[![Latest Stable Version](https://poser.pugx.org/mongosoft/yii2-soap-client/v/stable.png)](https://packagist.org/packages/mongosoft/yii2-soap-client)
+[![Total Downloads](https://poser.pugx.org/mongosoft/yii2-soap-client/downloads.png)](https://packagist.org/packages/mongosoft/yii2-soap-client)
+
 Installation
 ------------
 
